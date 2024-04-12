@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "domassi-lnxo",
+  "private_key_id": "38108e7e4572decc249a89f95a4332a42303500a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDw/y1OT5ct3zLL\nzWgBdmjh0QLvo64rGxGHmTP0T5RXG1YshtANesj2M/XHlRWT4bcVmY67B7xKYcyR\nUybIoGTWdBdyJ+5uBBqPbUwU3M1W7xjB1f/cDkrSrxBcC+zTZzAsY264bXxETkib\n8tPN49iyTEWndxVydubrPqvPWemANmYh+h7b5s0VvMRystzDeSGTz3U//iuteRk9\n4b/01tGN65kYTdS6kQ4NJ/t4vnVypzHXR7MTeVHprB8lWSBK+U/d32mO42qkQU0x\nEPl7rawKH0NXl+2ssEyuvBl4RHUWyQOQeIKc/9UL4c0paQ2e3A9X7ELhFKvFsILn\n/BOwPQSTAgMBAAECggEAdrcE/uQXETo3QAy9tKa7MK3wt9KV+9b4MidGYA2JgcVO\nFF4Og+1drGZZJskqWXAha6r6k+hSGQQHLPlcjAzyz29dk1bXTWuJF+kbxtUj87SR\nKf78bE7ADfu939HiBht5MAyFIKWSRuWXP/cE3hHkj6Qh1cZEEuA+jViQcvKUIxr0\nQx03N6DFpi8EuThJfma3xGcbvmbDL/CLKRWR2hTAdXqP8Eo2Fet1jUWmH20Kygrw\nxBns2BCLVxJkSO2LhxSUItGmcIwzCCBtFnxKho5Zy7HE/gYvgDaYII6iDIsWfFsF\nnbg8Mb4pt3CnH+PZVex7sNy279vecckBljl4e6BpPQKBgQD8cDtoxVSYmtT6xLYZ\nYPH9hZaIMxg3wglWg4MBbbedvoawu+jGpIcCdg6fr6ILgtCSGt2RPJkKYD++RvAS\njLBJ8xmyJ/j5f87QFbIrH66GCkrGn49uDPVePVMSlBJNfi8enUQ04V7SoDGbBInD\nHLhbgYTjN1izy8xyaM8xl+zQDwKBgQD0ZZ6b6c7KP+UWpdjuU7GRT4derfur859I\naBvpsDBw+3q8JVRTAabI7lIayfA3NahxUJ67CssEPno7mLB9OgQmy2x8ISolG/+X\nx4GcEvb1S2JXSL/q18XfLE7x9Jj2r5Tc9n0IMXRIM501JCGJ0DaWFhmp66npA/RB\nCG5NTOh/PQKBgQCO4V9e78HwFkLSJSEEwFB3tHL9aB4fAR6T7x/pYRZ6nGpUAifA\nt0MLa5LfY2OOrF4tNDOQjwH4U34Aztn3RdZKJOS4Z9OONH70XDNaITaA+7ZTMeDW\n41LGImOwskqhvfghldYTMDShdrZdDXaEDu9yK57xlFQKgCGZ6CTN5zXMlQKBgQDH\nu6T8VwChWcan07KOU+fykcRYJGhiByBN1Ie7XDq6m0ubKAbaL6dW3y5Kpm6jMD8R\nHIoc4p04QrcyrX7PWPK7odRvPctruI4SRQIvw3AA2DLuko4GJ4GW+mcqZnP8Z1KJ\nowhcAc6+kzAPlg+yyW9TCYy/ydF6lbiwzWsX0ZrRIQKBgQDRlnXL7GoxwTvKoAtO\nFYFccPKB7LocRgEMht/x19SHmlupU8dZhvI1GICVOpyD47oedNGbvJnwDAjAN2GJ\nK+gEf5C5rdUXA3IP3AJY+1wu4w+SMGrTnCrShPi8qAY5m/5h1SR9p0LoS0mNCaoy\nLdNeU7AxMaqkJhlbjgB5mDvq6g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "domassiapikey@domassi-lnxo.iam.gserviceaccount.com",
+  "client_id": "115181706338222406022",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/domassiapikey%40domassi-lnxo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
